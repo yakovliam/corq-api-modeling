@@ -75,8 +75,11 @@ GET_EVENTS_CATEGORIES_REQUEST_HEADERS = {
 
 
 def get_events_page():
+    # start at page #1 (paginated requests)
+    current_page = 1
     return requests.get(
-        BASE_API_URL + GET_EVENTS_PATH + "1", headers=GET_EVENTS_REQUEST_HEADERS
+        BASE_API_URL + GET_EVENTS_PATH + current_page,
+        headers=GET_EVENTS_REQUEST_HEADERS,
     )
 
 
