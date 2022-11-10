@@ -1,0 +1,876 @@
+{
+  "page": 1,
+  "totalPages": 11,
+  "results": [
+    {
+      "id": 8345830,
+      "name": "Digital Book Display",
+      "eventType": "Public",
+      "theme": "Cultural",
+      "startsOn": "2022-09-09T16:00:00Z",
+      "endsOn": "2023-04-28T17:00:00Z",
+      "org": {
+        "id": 321008,
+        "branchId": null,
+        "name": "UC Clermont College Library",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Online",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 321008,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8145489,
+      "name": "Assessment and Learner Engagement Workshop (Nov. 7-18, 2022)",
+      "eventType": "Public",
+      "theme": "ThoughtfulLearning",
+      "startsOn": "2022-11-07T13:00:00Z",
+      "endsOn": "2022-11-18T22:00:00Z",
+      "org": {
+        "id": 296725,
+        "branchId": null,
+        "name": "UC Clermont Center for Teaching, Learning & Innovation",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Online",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 296725,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8551220,
+      "name": "Peer Registration Tables",
+      "eventType": "Public",
+      "theme": "ThoughtfulLearning",
+      "startsOn": "2022-11-07T17:00:00Z",
+      "endsOn": "2022-12-01T20:00:00Z",
+      "org": {
+        "id": 207360,
+        "branchId": null,
+        "name": "CECH Student Services Center",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "3rd and 2nd(IT Student Success Team) Floor Atrium of Teachers-Dyer Complex",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 207360,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8232523,
+      "name": "AACRC Visitor",
+      "eventType": "Public",
+      "theme": "Social",
+      "startsOn": "2022-11-10T13:00:00Z",
+      "endsOn": "2022-11-11T00:00:00Z",
+      "org": {
+        "id": 206770,
+        "branchId": null,
+        "name": "African American Cultural and Resource Center",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "aacrc",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 206770,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8480987,
+      "name": "Balanced and Focused Meditation",
+      "eventType": "Public",
+      "theme": "ThoughtfulLearning",
+      "startsOn": "2022-11-10T16:00:00Z",
+      "endsOn": "2022-11-10T17:00:00Z",
+      "org": {
+        "id": 207040,
+        "branchId": null,
+        "name": "Counseling & Psychological Services",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Health Sciences Building Room G20",
+      "geo": [-84.50538, 39.13879],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 207040,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8564945,
+      "name": "Student Orientation Leader (SOL) Information Session",
+      "eventType": "Public",
+      "theme": "ThoughtfulLearning",
+      "startsOn": "2022-11-10T17:30:00Z",
+      "endsOn": "2022-11-10T18:30:00Z",
+      "org": {
+        "id": 319614,
+        "branchId": null,
+        "name": "UC Blue Ash Student Engagement",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Muntz 275R",
+      "geo": [-84.39977, 39.23324],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 319614,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8547617,
+      "name": "\"Kiss the Ground\" film screening",
+      "eventType": "Public",
+      "theme": "ThoughtfulLearning",
+      "startsOn": "2022-11-10T17:30:00Z",
+      "endsOn": "2022-11-10T19:00:00Z",
+      "org": {
+        "id": 347814,
+        "branchId": null,
+        "name": "UC Clermont Sustainability Committee",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "UC Clermont Snyder S-143",
+      "geo": [-84.19475, 39.08038],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 347814,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8573833,
+      "name": "Baila Conmigo",
+      "eventType": "Public",
+      "theme": "Cultural",
+      "startsOn": "2022-11-10T18:30:00Z",
+      "endsOn": "2022-11-10T20:00:00Z",
+      "org": {
+        "id": 321959,
+        "branchId": null,
+        "name": "UC Blue Ash Latinx en Acci\u00f3n",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Muntz Auditorium Lobby (M119L)",
+      "geo": [-84.39978, 39.23327],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 321959,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8153478,
+      "name": "UC International Ask an Advisor (Virtual)",
+      "eventType": "Public",
+      "theme": "Cultural",
+      "startsOn": "2022-11-10T20:00:00Z",
+      "endsOn": "2022-11-10T21:00:00Z",
+      "org": {
+        "id": 207216,
+        "branchId": null,
+        "name": "UC International Partners and Leaders",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Online",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 207216,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8564833,
+      "name": "Know It All Session - Criminal Justice Internships and Career Paths",
+      "eventType": "Public",
+      "theme": "ThoughtfulLearning",
+      "startsOn": "2022-11-10T20:00:00Z",
+      "endsOn": "2022-11-10T21:30:00Z",
+      "org": {
+        "id": 207360,
+        "branchId": null,
+        "name": "CECH Student Services Center",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Teachers room 160",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 207360,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8265390,
+      "name": "IEEE General Meeting",
+      "eventType": "Public",
+      "theme": "ThoughtfulLearning",
+      "startsOn": "2022-11-10T22:00:00Z",
+      "endsOn": "2022-11-10T23:00:00Z",
+      "org": {
+        "id": 206971,
+        "branchId": null,
+        "name": "IEEE",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Campus Rec Center 3210",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 206971,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8361199,
+      "name": "UC Sailing Club General Meetings",
+      "eventType": "Public",
+      "theme": "Athletics",
+      "startsOn": "2022-11-10T22:00:00Z",
+      "endsOn": "2022-11-10T23:00:00Z",
+      "org": {
+        "id": 294994,
+        "branchId": null,
+        "name": "The University of Cincinnati Sailing Club",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Lindner Hall Room 2130",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 294994,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8259049,
+      "name": "Writer's Circle General Body Meetings",
+      "eventType": "Public",
+      "theme": "ThoughtfulLearning",
+      "startsOn": "2022-11-10T22:00:00Z",
+      "endsOn": "2022-11-10T23:00:00Z",
+      "org": {
+        "id": 352669,
+        "branchId": null,
+        "name": "Writer's Circle UC",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "College of Arts & Sciences, Room 43",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 352669,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8510701,
+      "name": "Classy Cats Girls Basketball Game",
+      "eventType": "Public",
+      "theme": "Arts",
+      "startsOn": "2022-11-10T22:00:00Z",
+      "endsOn": "2022-11-11T00:30:00Z",
+      "org": {
+        "id": 207181,
+        "branchId": null,
+        "name": "The Classy Cats",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Fifth Third Arena",
+      "geo": [-84.5141, 39.13116],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 207181,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8544448,
+      "name": "Let's talk about sexual health!",
+      "eventType": "Public",
+      "theme": "ThoughtfulLearning",
+      "startsOn": "2022-11-10T23:00:00Z",
+      "endsOn": "2022-11-11T00:30:00Z",
+      "org": {
+        "id": 206769,
+        "branchId": null,
+        "name": "Student Wellness Center",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Student Wellness Center",
+      "geo": [-84.516, 39.13244],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 206769,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8576477,
+      "name": "UFB Weekly Meeting",
+      "eventType": "Public",
+      "theme": "GroupBusiness",
+      "startsOn": "2022-11-10T23:00:00Z",
+      "endsOn": "2022-11-11T01:00:00Z",
+      "org": {
+        "id": 207476,
+        "branchId": null,
+        "name": "University Funding Board (UFB)",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "TUC 423",
+      "geo": [-84.51778, 39.13108],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 207476,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8202645,
+      "name": "Rock Painting",
+      "eventType": "Public",
+      "theme": "Social",
+      "startsOn": "2022-11-10T23:30:00Z",
+      "endsOn": "2022-11-11T00:30:00Z",
+      "org": {
+        "id": 289124,
+        "branchId": null,
+        "name": "Early Childhood Education Club",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Edwards Center",
+      "geo": [-84.5125, 39.12919],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 289124,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8234215,
+      "name": "Club Softball Practice",
+      "eventType": "Public",
+      "theme": "Athletics",
+      "startsOn": "2022-11-10T23:30:00Z",
+      "endsOn": "2022-11-11T01:00:00Z",
+      "org": {
+        "id": 206881,
+        "branchId": null,
+        "name": "Women's Fastpitch Softball Club",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Sheakley Lawn",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 206881,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8580855,
+      "name": "Photo Club Weekly Meeting",
+      "eventType": "Public",
+      "theme": "Arts",
+      "startsOn": "2022-11-11T00:30:00Z",
+      "endsOn": "2022-11-11T01:30:00Z",
+      "org": {
+        "id": 206732,
+        "branchId": null,
+        "name": "UC Photography Club",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Swift 519",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 206732,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8232725,
+      "name": "AACRC Visitor",
+      "eventType": "Public",
+      "theme": "Social",
+      "startsOn": "2022-11-11T13:00:00Z",
+      "endsOn": "2022-11-12T00:00:00Z",
+      "org": {
+        "id": 206770,
+        "branchId": null,
+        "name": "African American Cultural and Resource Center",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "aacrc",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 206770,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8510302,
+      "name": "FACT",
+      "eventType": "Public",
+      "theme": "Cultural",
+      "startsOn": "2022-11-11T17:00:00Z",
+      "endsOn": "2022-11-13T18:00:00Z",
+      "org": {
+        "id": 207350,
+        "branchId": null,
+        "name": "UC PASO",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "University of Illinois at Urbana-Champaign",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 207350,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8239444,
+      "name": "Queer Spirituality ",
+      "eventType": "Public",
+      "theme": "Spirituality",
+      "startsOn": "2022-11-11T17:30:00Z",
+      "endsOn": "2022-11-11T18:30:00Z",
+      "org": {
+        "id": 206834,
+        "branchId": null,
+        "name": "LGBTQ Center",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "LGBTQ Center",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 206834,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8569851,
+      "name": "Holiday Cards For Veterans - Veteran's Day Community Service ",
+      "eventType": "Public",
+      "theme": "CommunityService",
+      "startsOn": "2022-11-11T18:00:00Z",
+      "endsOn": "2022-11-11T19:00:00Z",
+      "org": {
+        "id": 207152,
+        "branchId": null,
+        "name": "Sigma Gamma Rho Sorority Inc.",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "60 West Charlton - Room 135",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 207152,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8502744,
+      "name": "UC YDSA General Meeting",
+      "eventType": "Public",
+      "theme": "GroupBusiness",
+      "startsOn": "2022-11-11T23:00:00Z",
+      "endsOn": "2022-11-12T00:30:00Z",
+      "org": {
+        "id": 352278,
+        "branchId": null,
+        "name": "UC Young Democratic Socialists of America",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Old Chem 835",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 352278,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8538122,
+      "name": "The Lambda Lock-in",
+      "eventType": "Public",
+      "theme": "Social",
+      "startsOn": "2022-11-12T00:00:00Z",
+      "endsOn": "2022-11-12T14:45:00Z",
+      "org": {
+        "id": 206999,
+        "branchId": null,
+        "name": "The Lambda Society",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "African American Cultural Resource Center",
+      "geo": [-84.51249, 39.13098],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 206999,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8454284,
+      "name": "Flying Event November B",
+      "eventType": "Public",
+      "theme": "Social",
+      "startsOn": "2022-11-12T13:00:00Z",
+      "endsOn": "2022-11-12T15:00:00Z",
+      "org": {
+        "id": 291728,
+        "branchId": null,
+        "name": "UC Piloting Club",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Sporty's Academy",
+      "geo": [-84.20795, 39.07724],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 291728,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8579162,
+      "name": "Munkey Business Tournament",
+      "eventType": "Public",
+      "theme": "Athletics",
+      "startsOn": "2022-11-12T14:00:00Z",
+      "endsOn": "2022-11-13T21:30:00Z",
+      "org": {
+        "id": 206931,
+        "branchId": null,
+        "name": "Women's Ultimate Frisbee Club ",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "Otto Armleder Park (5057 Wooster Pike, Cincinnati, OH 45227)",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 206931,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8534367,
+      "name": "UC Nutri Ed Baking Class",
+      "eventType": "Public",
+      "theme": "Social",
+      "startsOn": "2022-11-12T15:00:00Z",
+      "endsOn": "2022-11-12T20:00:00Z",
+      "org": {
+        "id": 207296,
+        "branchId": null,
+        "name": "UC Nutri-Ed",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "HSB Food Lab Room 220",
+      "geo": [],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 207296,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8554637,
+      "name": "UC MSA Meal Pack Out Nov 2022",
+      "eventType": "Public",
+      "theme": "CommunityService",
+      "startsOn": "2022-11-12T17:00:00Z",
+      "endsOn": "2022-11-12T20:00:00Z",
+      "org": {
+        "id": 207208,
+        "branchId": null,
+        "name": "Muslim Student Association",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "TUC Great Hall  2600 Clifton Ave, Cincinnati, OH 45221",
+      "geo": [-84.51778, 39.13108],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 207208,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    },
+    {
+      "id": 8540645,
+      "name": "Calisthenics Chipotle Cantina",
+      "eventType": "Public",
+      "theme": "Athletics",
+      "startsOn": "2022-11-12T21:00:00Z",
+      "endsOn": "2022-11-13T01:00:00Z",
+      "org": {
+        "id": 306561,
+        "branchId": null,
+        "name": "University of Cincinnati Calisthenics Club",
+        "shortName": null,
+        "websiteKey": "",
+        "tags": null
+      },
+      "location": "ClimbCincy",
+      "geo": [-84.54445, 39.16112],
+      "distance": null,
+      "community": {
+        "id": 821,
+        "name": "University of Cincinnati",
+        "hostName": "uc.campuslabs.com",
+        "institutionId": 4412
+      },
+      "orgId": 306561,
+      "cohosts": [],
+      "countryCode": "US",
+      "regionCode": "usa"
+    }
+  ]
+}

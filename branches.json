@@ -1,0 +1,33 @@
+[
+  { "id": 200592, "name": "Club Sports", "shortName": "", "isVisible": false },
+  {
+    "id": 200594,
+    "name": "Fraternity & Sorority Life",
+    "shortName": "",
+    "isVisible": false
+  },
+  {
+    "id": 169800,
+    "name": "Student Organizations",
+    "shortName": "",
+    "isVisible": false
+  },
+  {
+    "id": 319614,
+    "name": "UC Blue Ash Student Engagement",
+    "shortName": "",
+    "isVisible": true
+  },
+  {
+    "id": 238965,
+    "name": "UC Clermont Student Engagement",
+    "shortName": "",
+    "isVisible": true
+  },
+  {
+    "id": 200593,
+    "name": "University Departments, Offices, and Programs",
+    "shortName": "",
+    "isVisible": false
+  }
+]
